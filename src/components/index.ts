@@ -1,3 +1,3 @@
-import {Image} from './Image';
+import {HeaderImage} from './HeaderImage';
 
-export {Image}
+export {HeaderImage}
